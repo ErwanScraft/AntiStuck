@@ -1,0 +1,6 @@
+name: AntiStuck
+main: AntiStuck\Main
+version: 1.0.0
+api: [5.0.0]
+author: ErwanScraft
+description: Plugin for teleporting players upwards when stuck in a block.
