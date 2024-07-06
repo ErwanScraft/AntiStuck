@@ -6,7 +6,7 @@ A plugin that prevents players from getting stuck in blocks when joining a serve
 - Sound effects when the player successfully teleports
 
 # Preview
-![Videos](https://s2.ezgif.com/tmp/ezgif-2-079e60a814.gif)<br>
+<img align="center" src="./assets/preview.gif">
 
 # Credits
 icon by <a target="_blank" href="https://icons8.com">Icons8</a>
