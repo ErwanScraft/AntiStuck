@@ -2,7 +2,6 @@
 A plugin that prevents players from getting stuck in blocks when joining a server or when entering a world that hasn't loaded perfectly.
 
 [![](https://poggit.pmmp.io/shield.state/AntiStuck)](https://poggit.pmmp.io/p/AntiStuck)
-<a href="https://poggit.pmmp.io/p/AntiStuck"><img src="https://poggit.pmmp.io/shield.state/AntiStuck"></a>
 
 # Feature
 - Teleport player while stuck in a blocks
