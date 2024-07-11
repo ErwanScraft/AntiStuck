@@ -1,6 +1,6 @@
 <?php
 
-namespace AntiStuck\listener;
+namespace ErwanScraft\AntiStuck\listener;
 
 use pocketmine\event\player\PlayerMoveEvent;
 use pocketmine\world\sound\AnvilFallSound;

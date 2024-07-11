@@ -1,9 +1,9 @@
 <?php
 
-namespace AntiStuck;
+namespace ErwanScraft\AntiStuck;
 
 use pocketmine\plugin\PluginBase;
-use AntiStuck\listener\EventListener;
+use ErwanScraft\AntiStuck\listener\EventListener;
 
 class Main extends PluginBase {
 
